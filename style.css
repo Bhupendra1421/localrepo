@@ -1,0 +1,19 @@
+p {
+  color: blue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  text-shadow: 2px 2px 4px #000000;
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid black;
+
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  
+}
